@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: tianbao_setup.exe
+    sha512: rbqPiCQyKuAzcymmkbc/Fa6lesytvP6vsKyWa2Vp4M8WnJhNe3vNS8sL8HphL7ubf0E/qlCDrdFdL/l1VWFHdw==
+    size: 76079520
+path: tianbao_setup.exe
+sha512: rbqPiCQyKuAzcymmkbc/Fa6lesytvP6vsKyWa2Vp4M8WnJhNe3vNS8sL8HphL7ubf0E/qlCDrdFdL/l1VWFHdw==
+releaseDate: '2023-11-05T22:05:36.109Z'
